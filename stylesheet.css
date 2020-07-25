@@ -2,7 +2,7 @@
 
 /*FIRST*/
 
-body{width:1375px;
+body{width:1440px;
 font-family: 'Poppins', sans-serif;
 }
 
@@ -23,7 +23,7 @@ height:300px;
 
 .firstcard{
 background-image:url(bg-hero-desktop.svg);
-width:100%;
+width:100vw;
 height:500px;
 background-repeat:no-repeat;
 background-color:rgba(173,216,230,0.2);
@@ -180,7 +180,7 @@ font-weight:700;}
 /*LASTONE*/
 .lastcard{
 background-color: hsl(192, 100%, 9%);
-width:100%;
+width:100vw;
 margin-top:300px;
 height:500px;
 color:white;
