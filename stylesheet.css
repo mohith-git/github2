@@ -2,7 +2,7 @@
 
 /*FIRST*/
 
-body{width:1440px;
+body{width:1375px;
 font-family: 'Poppins', sans-serif;
 }
 
@@ -505,15 +505,15 @@ margin-top:35px;
 
    .map{position:absolute;
 top:10px;
-     left:-18vw;}
+     left:-20vw;}
     
     .phone{position:absolute;
 top:170px;
-     left:-18vw;}
+     left:-20vw;}
        
              .mail{position:absolute;
 top:190px;
-     left:-18vw;}
+     left:-20vw;}
               
 #social{
 position:absolute;
